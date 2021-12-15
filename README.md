@@ -1,4 +1,5 @@
 # PhD_Tenure_Track
+Building AI course project
 An AI model to predict the average duration of a PhD candidate to reach a long-term lecturer position.
 Final project for the Building AI course
 
@@ -45,5 +46,6 @@ The model could also inform legislation and policy on the topic of European univ
 
 ## Acknowledgments
 
+* Building AI course project
 * https://www.budrich-journals.de/index.php/debatte/article/view/38701/32940
 * https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-search;callCode=HORIZON-WIDERA-2022-ERA-01;freeTextSearchKeyword=;matchWholeText=true;typeCodes=1;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;destination=null;mission=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState
